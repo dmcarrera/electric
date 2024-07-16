@@ -1,4 +1,4 @@
-# Análisis de Ventas de Vehículos Eléctricos y Puertos de Carga (Revisar no coincide con el original)
+# Análisis de Ventas de Vehículos Eléctricos y Puertos de Carga 
 
 Este proyecto analiza los datos de ventas de vehículos eléctricos (EV) y la instalación de puertos de carga (tanto públicos como privados) en Estados Unidos, con el objetivo de identificar tendencias y patrones importantes para la planificación estratégica.
 
